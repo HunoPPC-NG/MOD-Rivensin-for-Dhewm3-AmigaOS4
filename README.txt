@@ -1,4 +1,4 @@
-dhewm 3 version 1.5.1 for Windows
+dhewm 3 version 1.5.1 for AmigaOS4
 
 dhewm3_notools.exe is built without the MFC-based tools like the D3Radiant level editor.
 It should work better with nvidia DSR and AMD VSR (which render the game at a higher resolution than
